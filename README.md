@@ -28,7 +28,11 @@ This application is useful for tracking Instagram account details in real-time a
 - User-friendly Windows Forms interface.
 - Update button to refresh the data.
 ## Screenshots
-![Screenshot](path_to_screenshot.png) <!-- Add an actual screenshot here -->
+![Screenshot](cristiano.png) 
+.
+.
+.
+![Screenshot](leo.png)
 
 ## Technologies Used
 
