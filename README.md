@@ -27,12 +27,14 @@ This application is useful for tracking Instagram account details in real-time a
   - Instagram user ID
 - User-friendly Windows Forms interface.
 - Update button to refresh the data.
+## Screenshots
+![Screenshot](path_to_screenshot.png) <!-- Add an actual screenshot here -->
 
 ## Technologies Used
 
 - **Language**: VB.NET
 - **Platform**: Windows Forms
-- **Instagram API**: Retrieves public data from Instagram's public endpoints (or scrapes from Instagram if APIs aren't available).
+- **Instagram API**: Retrieves public data from third party  Instagram's public endpoints .
 
 ## Prerequisites
 
@@ -52,10 +54,9 @@ Before you begin, ensure you have met the following requirements:
     - Launch Visual Studio.
     - Open the project from the cloned repository folder.
 
-3. **Install Dependencies**:
-    - Ensure you have installed necessary NuGet packages if you're using an Instagram API library or HTTP client.
 
-4. **Run the App**:
+
+3. **Run the App**:
     - Hit `F5` to run the application and start fetching Instagram account details.
 
 ## How to Use
@@ -82,7 +83,7 @@ _(Add screenshots here of your app's user interface)_
 
 The app uses an Instagram scraping mechanism or integrates with a third-party Instagram API to fetch public information for the entered username.
 
-*Note*: Due to Instagram's strict API access, you might need to scrape public information instead of using official APIs if access is restricted.
+
 
 ## Troubleshooting
 
@@ -106,7 +107,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-If you have any questions or suggestions, feel free to reach out:
+If you have any questions or suggestions, feel free to reach out, feel free to report any bug
 
-- **Email**: youremail@example.com
-- **GitHub**: [yourusername](https://github.com/yourusername)
